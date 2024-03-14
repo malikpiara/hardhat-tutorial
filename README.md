@@ -1,0 +1,1 @@
+Going through [Hardhat's tutorial for beginners](https://hardhat.org/tutorial) and playing around with the boilerpalte.
